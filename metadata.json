@@ -1,0 +1,6 @@
+{
+  "name": "Pocket",
+  "description": "Personal Expense & Savings Tracker",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
